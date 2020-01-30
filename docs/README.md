@@ -6,7 +6,10 @@ A long shot goal would be to add other servers like Google books and Amazon so t
 
 ## Intended users
 * Readers looking for a new book based on review.
-* Professors/Teachers searching for reccomendations or reviews for educational purposes.
+* Professors/Teachers searching for recommendations or reviews for educational purposes.
+
+### User stories
+* [user stories](user-stories)
 
 ## External services
 * API for Goodreads book database, looking with the books ISBN. Using developer sign in.
